@@ -1,12 +1,12 @@
 # main links links
 main:
-  - title: "Home"
+  - title: "HOME"
     url: /home/
     
-  - title: "About"
+  - title: "ABOUT"
     url: /about/
 
-  - title: "Publications"
+  - title: "PUBLICATIONS"
     url: /publications/
 
   - title: "Talks"
