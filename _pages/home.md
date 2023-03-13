@@ -17,6 +17,4 @@ Education
 
 News & Updates
 ------
-* 
-* 
-* **[Aug. 2019]** One paper on [Stretchable and transparent kirigami conductor of nanowire percolation network for electronic skin applications](https://pubs.acs.org/doi/full/10.1021/acs.nanolett.9b02014) is published in **_Nano Letters_**
+* [Aug. 2019] One paper on [Stretchable and transparent kirigami conductor of nanowire percolation network for electronic skin applications](https://pubs.acs.org/doi/full/10.1021/acs.nanolett.9b02014) is published in **_Nano Letters_**
