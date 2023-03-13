@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 Journal
----
+===
 ---
 <!-- <b><u>Jung Jae Park</u></b> -->
 <!-- <a href="empty_url" target="_blank"> -->
@@ -43,19 +43,19 @@ Journal
       19(9), 6087-6096, 2019.</li>
       <span style="color: lightblue;">(Symbol † indicates equal contribution as the first author.)</span>
   <li><b><u>Jung Jae Park</u><sup>†</sup></b>, Phillip Won<sup>†</sup>, and Seung Hwan Ko, 
-      <a href="https://link.springer.com/article/10.1007/s40684-019-00027-2" target="_blank">A Review on Hierarchical Origami and Kirigami Structure for Engineering Applications</a>, 
+      <a href="https://link.springer.com/article/10.1007/s40684-019-00027-2" style="color: darkblue;" target="_blank">A Review on Hierarchical Origami and Kirigami Structure for Engineering Applications</a>, 
       <i>International Journal of Precision Engineering and Manufacturing-Green Technology</i>, 
       6(1), 147-161, 2019.</li>
-      <span style="color: lightblue;">(Symbol † indicates equal contribution as the first author.)</span>
+      <span style="color: blue;">(Symbol † indicates equal contribution as the first author.)</span>
 </ol> 
 
 
 Conference
----
+===
 ---
 
 Patent
----
+===
 ---
 
 {% if author.googlescholar %}
