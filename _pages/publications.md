@@ -38,15 +38,16 @@ Journal
       <i>Journal of Materials Chemistry A</i>, 
       8(17), 8281-8291, 2020.</li>
   <li>Phillip Won<sup>†</sup>, <b><u>Jung Jae Park</u><sup>†</sup></b>, Taemin Lee, Inho Ha, Seonggeun Han, Mansoo Choi, Jinhwan Lee, Sukjoon Hong, Kyu-Jin Cho, and Seung Hwan Ko, 
-       <a href="https://pubs.acs.org/doi/full/10.1021/acs.nanolett.9b02014" target="_blank">Stretchable and Transparent Kirigami Conductor of Nanowire Percolation Network for Electronic Skin Applications</a>, 
+      <a href="https://pubs.acs.org/doi/full/10.1021/acs.nanolett.9b02014" target="_blank">Stretchable and Transparent Kirigami Conductor of Nanowire Percolation Network for Electronic Skin Applications</a>, 
       <i>Nano Letters</i>, 
-      19(9), 6087-6096, 2019.</li>
-      <span style="color: lightblue;">(Symbol † indicates equal contribution as the first author.)</span>
+      19(9), 6087-6096, 2019.
+      <b>[ACS Editors’ Choice] [Open Access] [<a href="https://www.youtube.com/watch?v=7uHvXaT_KeY" target="_blank">Arirang TV Money Monster</a>: Electronic Skin 3:20”]</b></li>
+      <span style="color: darkblue;">(Symbol † indicates equal contribution as the first author.)</span>
   <li><b><u>Jung Jae Park</u><sup>†</sup></b>, Phillip Won<sup>†</sup>, and Seung Hwan Ko, 
-      <a href="https://link.springer.com/article/10.1007/s40684-019-00027-2" style="color: darkblue;" target="_blank">A Review on Hierarchical Origami and Kirigami Structure for Engineering Applications</a>, 
+      <a href="https://link.springer.com/article/10.1007/s40684-019-00027-2" target="_blank">A Review on Hierarchical Origami and Kirigami Structure for Engineering Applications</a>, 
       <i>International Journal of Precision Engineering and Manufacturing-Green Technology</i>, 
       6(1), 147-161, 2019.</li>
-      <span style="color: blue;">(Symbol † indicates equal contribution as the first author.)</span>
+      <span style="color: darkblue;">(Symbol † indicates equal contribution as the first author.)</span>
 </ol> 
 
 
