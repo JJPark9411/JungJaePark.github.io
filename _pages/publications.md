@@ -47,9 +47,8 @@ Journal
       <a href="https://link.springer.com/article/10.1007/s40684-019-00027-2" style="color: darkblue;" target="_blank">A Review on Hierarchical Origami and Kirigami Structure for Engineering Applications</a>, 
       <i>International Journal of Precision Engineering and Manufacturing-Green Technology</i>, 
       6(1), 147-161, 2019.</li>
-      <span style="color: RGB(205, 231, 243);">(Symbol † indicates equal contribution as the first author.)</span>
+      <span style="color: RGB(36, 103, 131);">(Symbol † indicates equal contribution as the first author.)</span>
 </ol> 
-
 
 Conference
 ===
