@@ -43,7 +43,6 @@ Journal
       19(9), 6087-6096, 2019.
       <b>[ACS Editors’ Choice] [Open Access] [<a href="https://www.youtube.com/watch?v=7uHvXaT_KeY" style="color: RGB(36, 103, 131);" target="_blank">Arirang TV Money Monster</a>: Electronic Skin 3:20”]</b></li>
       <span style="color: RGB(113, 115, 201);">(Symbol † indicates equal contribution as the first author.)</span>
-<hr>
   <li><b><u>Jung Jae Park</u><sup>†</sup></b>, Phillip Won<sup>†</sup>, and Seung Hwan Ko, 
       <a href="https://link.springer.com/article/10.1007/s40684-019-00027-2" style="color: RGB(36, 103, 131);" target="_blank">A Review on Hierarchical Origami and Kirigami Structure for Engineering Applications</a>, 
       <i>International Journal of Precision Engineering and Manufacturing-Green Technology</i>, 
