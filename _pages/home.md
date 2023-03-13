@@ -16,5 +16,6 @@ Education
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 News & Updates
---------
+---
+---
 * [Aug. 2019] One paper on [Stretchable and transparent kirigami conductor of nanowire percolation network for electronic skin applications](https://pubs.acs.org/doi/full/10.1021/acs.nanolett.9b02014) is published in **_Nano Letters_**
